@@ -93,7 +93,7 @@ function animateCounters() {
 
 // ===== COUNTDOWN TIMER =====
 function updateCountdown() {
-  const target = new Date('2025-08-31T23:59:59');
+  const target = new Date('2026-08-31T23:59:59');
   const now = new Date();
   const diff = target - now;
 
